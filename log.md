@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -10,6 +11,7 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -18,13 +20,24 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
+### Day 1: June 05, Friday
 
-### Day 1: June 27, Monday
+**Today's Progress**: Completed Day 01 of Javascript30
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** I've recently started working through Javascript30. I've been doing java development for around 10 years, but javascript is new to me. I decided to start on pure javascript as I'm dangerous enough with js to piece together a service following examples, but the methods and syntax are still cumbersome to me. I don't know enough basic javascript to sit down and write something from scratch.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+My goal is that by the end of the 30 tutorials I will be able to sit down and write work through these
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Javascript Drum Kit](https://github.com/es20641/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
+
+### Day 2: June 06, Saturday
+
+**Today's Progress**: Completed Day 02 of Javascript30
+
+**Thoughts** With a few hints from the video and built out example, I was able to fill in a lot of this myself. I'm really happy with the progress I made. And coming out of the end of it with a working ticking clock was really cool to see.
+
+**Link(s) to work**
+
+1. [Javascript Clock](https://github.com/es20641/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html)
