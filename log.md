@@ -19,3 +19,13 @@ My goal is that by the end of the 30 tutorials I will be able to sit down and wr
 **Link(s) to work**
 
 1. [Javascript Clock](https://github.com/es20641/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html)
+
+### Day 3: June 07, Sunday
+
+**Today's Progress**: Completed Day 03 of Javascript30
+
+**Thoughts** This day was working with CSS variables in javascript. Mostly dealing with css syntax for variables and methods I hadn't used in javascript yet. Was very informative, but not one I was able to try myself before watching the video. The finished image manipulation was cool to see. I can see the versatility of setting css properties from javascript.
+
+**Link(s) to work**
+
+1. [CSS Variables in Javascript](https://github.com/es20641/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
