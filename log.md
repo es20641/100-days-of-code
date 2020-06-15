@@ -29,3 +29,13 @@ My goal is that by the end of the 30 tutorials I will be able to sit down and wr
 **Link(s) to work**
 
 1. [CSS Variables in Javascript](https://github.com/es20641/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
+
+### Day 4: June 09, Tuesday
+
+**Today's Progress**: Completed Day 04 of Javascript30
+
+**Thoughts** Practicing arrays! Filter. Map. Sort. Reduce. This was easily the most fun day yet.
+
+**Link(s) to work**
+
+1. [Array Cardio Day 1]()
